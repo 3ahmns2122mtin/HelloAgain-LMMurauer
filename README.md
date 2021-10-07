@@ -20,15 +20,15 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 
 ### Anforderungen:
 - [x] Anlegen eines 2D Unityprojekts mit Namen HelloAgain-yourKürzel
- In Assets einen Folder MyGame erstellen und den Scenes Folder in diesen MyGame Folder ziehen
- Im Ordner Scenes die SampleScene in HelloAgain umbenennen
- Im Game View Einstellung 960x600 einstellen
- Der Szene ein Canvas GameObject hinzufügen
- Das Canvas screenindependent einstellen:
- Canvas Componente Render Mode auf Screen Space – Camera einstellen und in Render Camera die Main Camera reinziehen.
- Canvas Scaler UI Scale Mode, Scale With Screen Size einstellen und als Reference Resolution 960 x 600 einstellen.
- Dem Canvas GameObject ein Text GameObject hinzufügen: „Hello again, here is yourKürzel speaking :)
- Dieses Text GameObject umbenennen in Welcome
+- [x] In Assets einen Folder MyGame erstellen und den Scenes Folder in diesen MyGame Folder ziehen
+- [x] Im Ordner Scenes die SampleScene in HelloAgain umbenennen
+- [x] Im Game View Einstellung 960x600 einstellen
+- [x] Der Szene ein Canvas GameObject hinzufügen
+- [x] Das Canvas screenindependent einstellen:
+- [x] Canvas Componente Render Mode auf Screen Space – Camera einstellen und in Render Camera die Main Camera reinziehen.
+- [x] Canvas Scaler UI Scale Mode, Scale With Screen Size einstellen und als Reference Resolution 960 x 600 einstellen.
+- [x]Dem Canvas GameObject ein Text GameObject hinzufügen: „Hello again, here is yourKürzel speaking :)
+- [x] Dieses Text GameObject umbenennen in Welcome
  Dem Canvas GameObject ein Image GameObject hinzufügen (Abmessung/Auflösung > 960x600)
  Dieses Image GameObject umbennen in Background
  Anordnung in der Hierarchy so ändern, dass der Background hinter dem Text liegt
