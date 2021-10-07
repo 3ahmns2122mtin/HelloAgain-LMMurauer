@@ -4,7 +4,7 @@ https://3ahmns2122mtin.github.io/HelloAgain-LMMurauer/
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
-https://3ahmns2122mtin.github.io/HelloAgain-smeerws-Uebung01/
+https://3ahmns2122mtin.github.io/HelloAgain-LMMurauer/
 
 ### Visuelle Einblicke in das Projekt: 
 ![sc-ue01helloagain](https://user-images.githubusercontent.com/28704310/132992326-6bd52f52-8af3-48e5-8406-060d0270f158.JPG)
