@@ -1,6 +1,5 @@
 # HelloAgain-LMMurauer
 
-https://3ahmns2122mtin.github.io/HelloAgain-LMMurauer/
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
